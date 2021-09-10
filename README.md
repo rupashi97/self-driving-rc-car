@@ -1,5 +1,10 @@
 
-Small scale implementation of a self driving car using Convolutional Neural Networks to predict the direction of motion of a car using track images.
+Small scale implementation of a self driving car by implementing a Convolutional Neural Network model to predict the direction of motion of a car taking track image as input. 
+
+![Car-setup](https://user-images.githubusercontent.com/28508641/132827867-7a36bdab-b07b-48af-a468-92ba462fd07b.JPG)
+
+![Result](https://user-images.githubusercontent.com/28508641/132827890-6f88fee1-d9c9-4f3a-8438-b4213db60896.JPG)
+
 
 ## Our dataset
 Training_Data, Training_Labels : R 512, L 468, F 728
