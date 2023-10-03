@@ -4,7 +4,11 @@ This project is a part of my bachelor's thesis, where we tackled the complex pro
 
 ### Here's the setup of the RC car:
 
-<img src="https://user-images.githubusercontent.com/28508641/132827867-7a36bdab-b07b-48af-a468-92ba462fd07b.JPG" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/28508641/132827867-7a36bdab-b07b-48af-a468-92ba462fd07b.JPG" width="500" height="400">
+
+### Track set up 
+
+<img src="https://github.com/rupashi97/self-driving-rc-car/assets/28508641/b12512e0-bd87-434a-b477-d321e4d67acb" width="500" height="400">
 
 ## Dataset
 
