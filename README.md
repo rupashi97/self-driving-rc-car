@@ -1,6 +1,6 @@
 # Self-Driving RC Car
 
-This project is a part of my bachelor's thesis, where we tackled the complex problem of building autonomous vehicles by creating a small-scale solution. Utilizing Convolutional Neural Networks (CNNs), we predicted the car's directional movement based on real-time track images. We captured these images using a Raspberry Pi and a Pi camera module and communicated with a local server through TCP/IP socket programming. F
+This project is a part of my bachelor's thesis, where we tackled the complex problem of building autonomous vehicles by creating a small-scale solution. Utilizing Convolutional Neural Networks (CNNs), we predicted the car's directional movement based on real-time track images. We captured these images using a Raspberry Pi and a Pi camera module and communicated with a local server through TCP/IP socket programming. 
 
 ### Here's the setup of the RC car:
 
@@ -31,6 +31,7 @@ The training involves multiple steps:
 ## For Testing/Driving the car using Model Predictions
 1. **[rc_rpi_controller](https://github.com/rupashi97/self-driving-rc-car/blob/master/rc_rpi_controller.py)**: Arduino-based socket connection for car commands.
 2. **[drive.py](https://github.com/rupashi97/self-driving-rc-car/blob/master/drive2.py)**: RPI program to actuate car based on model's predictions.
+
 
 
 For in-depth information and model training/testing results, please refer to our [project report](https://github.com/rupashi97/self-driving-rc-car/blob/master/Major_Project_Report.pdf).
